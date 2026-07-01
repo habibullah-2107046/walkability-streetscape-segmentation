@@ -1,0 +1,21 @@
+# Generated output folders (created automatically by running the scripts)
+preprocessed/
+masks/
+segmented/
+pixel_statistics/
+indices/
+outputs/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Hugging Face model cache (if accidentally created inside repo)
+.cache/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional — remove this line if you want to share your VS Code config)
+.vscode/
