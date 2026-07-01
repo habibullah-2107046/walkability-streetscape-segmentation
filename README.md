@@ -158,4 +158,4 @@ No code changes are required — all scripts use paths relative to the repositor
 
 ## License
 
-*(Add your preferred license here — e.g. MIT, or leave as "All rights reserved" for now.)*
+This project is licensed under the [MIT License](LICENSE).
