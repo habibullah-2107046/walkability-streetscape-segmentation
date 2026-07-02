@@ -21,13 +21,13 @@ This pipeline was built to support a broader research project conducted as part 
 **Course:** Transportation Planning Studio (Course Code: URP 4128)
 **Program:** Fourth Year, Department of Urban & Regional Planning, RUET
 
-**Submitted To (Course Instructors):**
-- Muhammad Waresul Hassan Nipun, Assistant Professor, Dept. of Urban & Regional Planning, RUET
-- Jahid Hasan, Assistant Professor, Dept. of Urban & Regional Planning, RUET
+**Course Instructors:**
+- [Muhammad Waresul Hassan Nipun](https://www.urp.ruet.ac.bd/waresulurpju), Assistant Professor, Dept. of Urban & Regional Planning, RUET
+- [Jahid Hasan](https://www.urp.ruet.ac.bd/hjaiid01), Assistant Professor, Dept. of Urban & Regional Planning, RUET
 
 **Project Group (Group-01):**
-- Jubaer Al Hasan (2107031)
 - Md. Habibullah Masbah (2107046)
+- Jubaer Al Hasan (2107031)
 - Nafis Sadman (2107052)
 - Md. Jehan Rahman (2107053)
 
