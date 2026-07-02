@@ -79,7 +79,7 @@ Only **5 sample panoramas** are included directly in this repository (in `panora
 
 The **full set of panoramas** (97 images, covering all sampled study points across the three routes) is hosted separately on Google Drive:
 
-🔗 **[Full panorama dataset — Google Drive](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+🔗 **[Full panorama dataset — Google Drive](https://drive.google.com/drive/folders/1dyxYB_BjqshjQOBVxTz5GK_51ogbSVyU?usp=sharing)**
 
 To use the full dataset: download the images from the link above and place them into the `panoramas/` folder (replacing or supplementing the 5 sample images), then run the pipeline as described below.
 
