@@ -93,7 +93,7 @@ Each panorama filename is a plain number (e.g. `50.jpg`) corresponding directly 
 
 So `panoramas/50.jpg` ↔ the row where `FID = 50` in `Study_Points.xlsx`.
 
-The panoramas were downloaded using the free **[Street View Download 360](https://svd360.rive.cz/)** desktop tool, using the coordinates in `Study_Points.xlsx` as input.
+The panoramas were downloaded using the free **[Street View Download 360](https://svd360.com/)** desktop tool, using the coordinates in `Study_Points.xlsx` as input.
 
 ---
 
